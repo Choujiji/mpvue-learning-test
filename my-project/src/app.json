@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/root/main",
+    "pages/weather/main",
+    "pages/todo_list/main",
+    "pages/scan/main",
+    "pages/index/main",
+    "pages/page2/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
